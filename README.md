@@ -1,50 +1,64 @@
-🗺️ Mangualde - Cartografia Digital com QGIS e Python
-Projeto de análise geoespacial e cartografia digital para o concelho de Mangualde, utilizando QGIS e scripts em Python (Spyder). Inclui dados de limites administrativos, uso do solo, elevação, rede viária e edifícios.
+# 🗺️ Mangualde - Cartografia Digital com QGIS e Python
 
-📋 Conteúdo
-Importação e visualização de dados geográficos em QGIS 🗂️
+Projeto de análise geoespacial e cartografia digital para o concelho de **Mangualde**, utilizando **QGIS** e scripts em **Python (Spyder)**. O projeto inclui dados oficiais de limites administrativos, uso do solo, elevação do terreno, rede viária e edifícios, com processamento e visualização integrados.
 
-Análise dos limites administrativos e subdivisões territoriais 📐
+---
 
-Mapeamento do uso do solo e cobertura vegetal 🌳
+## 📋 Conteúdo do Projeto
 
-Análise de elevação do terreno (MDE) ⛰️
+- Importação e visualização de dados geográficos no QGIS 🗂️  
+- Análise dos limites administrativos e subdivisões territoriais 📐  
+- Mapeamento do uso do solo e cobertura vegetal 🌳  
+- Estudo do Modelo Digital de Elevação (MDE) ⛰️  
+- Visualização da rede viária e infraestrutura 🚗  
+- Extração e manipulação de dados do OpenStreetMap (OSM) 🏘️  
+- Automatização e análises espaciais com Python 🐍  
 
-Visualização da rede viária e infraestrutura 🚗
+---
 
-Extração e manipulação de dados do OpenStreetMap 🏘️
+## 🛠️ Ferramentas e Tecnologias
 
-Automatização e análises espaciais via Python (Spyder) 🐍
+- **QGIS** — Sistema de Informação Geográfica para análise visual  
+- **Python (Spyder IDE)** — Automação e processamento geoespacial  
+- Bibliotecas Python usadas:  
+  - `geopandas`  
+  - `shapely`  
+  - `matplotlib`  
+  - `osgeo/gdal`  
 
-🛠️ Ferramentas e Tecnologias
-QGIS: Sistema de Informação Geográfica para manipulação visual e análise dos dados
+---
 
-Python (Spyder IDE): Automação, processamento e análise dos dados geoespaciais
+## 🗄️ Dados Utilizados
 
-Bibliotecas Python: geopandas, shapely, matplotlib, osgeo/gdal
+- Carta Administrativa Oficial de Portugal (CAOP)  
+- Dados de Uso do Solo e Cobertura Vegetal  
+- Modelo Digital de Elevação (MDE)  
+- Dados do OpenStreetMap (OSM)  
 
-🗄️ Dados Utilizados
-Carta Administrativa Oficial de Portugal (CAOP)
+---
 
-Dados de Uso do Solo e Cobertura Vegetal
+## 🚀 Como Executar
 
-Modelo Digital de Elevação (MDE)
+1. Instale o QGIS (versão 3.x recomendada)  
+2. Prepare o ambiente Python com as bibliotecas necessárias (ex: via `pip install geopandas shapely matplotlib gdal`)  
+3. Abra o projeto QGIS para carregar e visualizar os dados  
+4. Execute os scripts Python no Spyder para análises e geração de mapas personalizados  
 
-Dados do OpenStreetMap (OSM)
+---
 
-🚀 Como Executar
-Instale o QGIS (versão recomendada 3.x)
+## 📚 Referências
 
-Configure o ambiente Python com as bibliotecas necessárias
+- [Documentação QGIS](https://docs.qgis.org)  
+- [Geopandas](https://geopandas.org)  
+- [OpenStreetMap](https://www.openstreetmap.org)  
 
-Abra o projeto QGIS para visualização dos layers
+---
 
-Execute os scripts Python no Spyder para análises e geração de mapas personalizados
+## 🤝 Contato
 
-📚 Referências
-QGIS Documentation
+Qualquer dúvida ou sugestão, abra uma issue ou envie mensagem!
 
-Geopandas Documentation
+---
 
-OpenStreetMap
+Obrigado por visitar o projeto! 🌟
 
