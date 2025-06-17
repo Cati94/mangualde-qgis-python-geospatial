@@ -4,6 +4,15 @@ Projeto de análise geoespacial e cartografia digital para o concelho de **Mangu
 
 ---
 
+
+## 🖼️ Ilustração do Projeto
+
+![Mapa artístico de Mangualde](https://github.com/Cati94/mangualde-qgis-python-geospatial/blob/main/qgis.png)
+
+Um mapa topográfico artístico com camadas de uso do solo, edifícios, rede viária e curvas de nível. À direita, janelas do QGIS e do Spyder/Python flutuam como se fizessem parte do ambiente.
+
+
+
 ## 📋 Conteúdo do Projeto
 
 - Importação e visualização de dados geográficos no QGIS 🗂️  
